@@ -1,0 +1,412 @@
+
+
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--><html lang="en"><!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+    <title>How cross-government communities can support cross-government services - Government Digital Service</title>
+
+    <!--[if gt IE 8]><!--><link href="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/stylesheets/govuk-template.css?0.22.3" media="screen" rel="stylesheet" /><!--<![endif]-->
+    <!--[if IE 6]><link href="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/stylesheets/govuk-template-ie6.css?0.22.3" media="screen" rel="stylesheet" /><![endif]-->
+    <!--[if IE 7]><link href="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/stylesheets/govuk-template-ie7.css?0.22.3" media="screen" rel="stylesheet" /><![endif]-->
+    <!--[if IE 8]><link href="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/stylesheets/govuk-template-ie8.css?0.22.3" media="screen" rel="stylesheet" /><![endif]-->
+    <link href="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/stylesheets/govuk-template-print.css?0.22.3" media="print" rel="stylesheet" />
+
+    <!--[if IE 8]><link href="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/stylesheets/fonts-ie8.css?0.22.3" media="all" rel="stylesheet" /><![endif]-->
+    <!--[if gte IE 9]><!--><link href="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/stylesheets/fonts.css?0.22.3" media="all" rel="stylesheet" /><!--<![endif]-->
+    <!--[if lt IE 9]><script src="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/javascripts/ie.js?0.22.3"></script><![endif]-->
+
+    <link rel="shortcut icon" href="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/images/favicon.ico?0.22.3" type="image/x-icon" />
+
+    <link rel="mask-icon" href="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/images/gov.uk_logotype_crown.svg?0.22.3" color="#0b0c0c">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/images/apple-touch-icon-180x180.png?0.22.3">
+    <link rel="apple-touch-icon" sizes="167x167" href="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/images/apple-touch-icon-167x167.png?0.22.3">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/images/apple-touch-icon-152x152.png?0.22.3">
+    <link rel="apple-touch-icon" href="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/images/apple-touch-icon.png?0.22.3">
+
+
+    <meta name="theme-color" content="#0b0c0c" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:image" content="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/images/opengraph-image.png?0.22.3">
+
+    <!-- JM Twitter Cards by Julien Maury 9.4 -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:creator" content="@GDSTeam">
+<meta name="twitter:site" content="@GDSTeam">
+<meta name="twitter:title" content="How cross-government communities can support cross-government services">
+<meta name="twitter:description" content="GDS is working with organisations across government to pilot a new way of working. We&#039;re forming networks of people with different skills and from different departments, who will work together to improve end-to-end services that cross departmental boundaries. We’re calling these networks ‘Service Communities’.">
+<meta name="twitter:image" content="https://gds.blog.gov.uk/wp-content/uploads/sites/60/2017/12/workshop-2.jpg">
+<!-- /JM Twitter Cards by Julien Maury 9.4 -->
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/gds.blog.gov.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" href="https://gds.blog.gov.uk/wp-content/plugins/dxw-digest/app/../assets/css/dxw-digest.css?ver=4.9.8">
+<link rel="stylesheet" href="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/main.min.css?ver=4.9.8">
+<script type='text/javascript' src='https://gds.blog.gov.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://gds.blog.gov.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://gds.blog.gov.uk/wp-content/plugins/dxw-digest/app/../assets/js/dxw-digest.js?ver=4.9.8'></script>
+<script type='text/javascript' src='https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/main.min.js?ver=4.9.8'></script>
+<link rel="alternate" type="application/json+oembed" href="https://gds.blog.gov.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgds.blog.gov.uk%2F2018%2F01%2F08%2Fhow-cross-government-communities-can-support-cross-government-services%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://gds.blog.gov.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgds.blog.gov.uk%2F2018%2F01%2F08%2Fhow-cross-government-communities-can-support-cross-government-services%2F&#038;format=xml" />
+    <link rel="alternate" type="application/atom+xml" title="Government Digital Service Feed" href="https://gds.blog.gov.uk/feed/">
+    <link rel="shortcut icon" href="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/favicon.ico">
+
+  <meta name="description" content="GDS is leading the digital transformation of the UK government." />
+
+          <link rel="alternate" type="application/atom+xml" title="Government Digital Service Feed" href="https://gds.blog.gov.uk/feed/">
+        	<link rel="canonical" href="https://gds.blog.gov.uk/2018/01/08/how-cross-government-communities-can-support-cross-government-services/">
+    <!--[if lte IE 6]>
+      <link rel="stylesheet" href="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/node_modules/bsie/bootstrap/css/bootstrap-ie6.min.css">
+    <![endif]-->
+
+  </head>
+
+  <body class="post-template-default single single-post postid-23254 single-format-standard">
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+
+
+
+    <div id="skiplink-container">
+      <div>
+        <a href="#content" class="skiplink">Skip to main content</a>
+      </div>
+    </div>
+
+    <div id="global-cookie-message">
+
+        <div class="cookie-message full-width">
+  <p>
+    GOV.UK blogs use cookies to make the site simpler. <a href="https://blog.gov.uk/cookies/">Find out more about cookies</a>
+  </p>
+</div>
+
+
+    </div>
+
+
+    <header role="banner" id="global-header" class="">
+      <div class="header-wrapper">
+        <div class="header-global">
+          <div class="header-logo">
+            <a href="https://www.gov.uk/" title="Go to the GOV.UK homepage" id="logo" class="content">
+              <img src="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/images/gov.uk_logotype_crown_invert_trans.png?0.22.3" width="36" height="32" alt=""> GOV.UK
+            </a>
+          </div>
+
+        </div>
+
+      </div>
+    </header>
+
+
+
+    <div id="global-header-bar"></div>
+
+    <div class="container bar"></div>
+<div class="container">
+    <header class="header" role="banner">
+    <div class="grid-row">
+
+
+        <div class="column-two-thirds">
+            <h1 class="blog-title">
+                <span class="blog"><a href="https://blog.gov.uk/">Blog</a></span>
+                <a href="https://gds.blog.gov.uk">Government Digital Service</a>
+            </h1>
+
+                            <div class="bottom blog-meta">
+                                                    <dl>
+                                <dt>Organisations:</dt>
+                                <dd><a href="https://www.gov.uk/government/organisations/government-digital-service">Government Digital Service</a>, <a href="https://www.gov.uk/government/organisations/cabinet-office">Cabinet Office</a></dd>
+                            </dl>
+                                                                </div>
+                    </div>
+
+        <div class="column-one-third">
+                                    <div class="bottom search-container">
+                <form role="search" method="get" id="searchform" class="form-search" action="https://gds.blog.gov.uk/">
+    <label class="visuallyhidden" for="s">Search for:</label>
+    <div class="search-input-wrapper">
+        <input type="search" value="" name="s" id="s" class="search-query" placeholder="Search blog">
+        <input type="submit" id="searchsubmit" value="Search" class="btn">
+    </div>
+</form>
+            </div>
+        </div>
+
+    </div>
+
+            <div class="grid-row">
+                    </div>
+
+</header>
+    <main id="content" class="grid-row" role="main">
+    <div class="column-two-thirds main-content">
+        <article class="clearfix post-23254 post type-post status-publish format-standard has-post-thumbnail hentry category-people-and-skills category-ways-of-working">
+    <div class="visible-print">
+      <p>https://gds.blog.gov.uk/2018/01/08/how-cross-government-communities-can-support-cross-government-services/</p>
+    </div>
+    <header>
+      <h1 class="entry-title">How cross-government communities can support cross-government services</h1>
+      <div class="byline author vcard">
+    <span class="visuallyhidden">Posted by: </span>
+  <a href="https://gds.blog.gov.uk/author/tom-wynne-morgan/" title="Posts by Tom Wynne-Morgan" class="author url fn" rel="author">Tom Wynne-Morgan</a> and <a href="https://gds.blog.gov.uk/author/will-harmer/" title="Posts by Will Harmer" class="author url fn" rel="author">Will Harmer</a>, <span class="visuallyhidden">Posted on: </span><time class="updated" datetime="2018-01-08T14:56:31+00:00" pubdate>8 January 2018</time>
+  -
+  <span class="visuallyhidden">Categories: </span>
+  <a href="https://gds.blog.gov.uk/category/people-and-skills/" rel="category tag">People and skills</a>, <a href="https://gds.blog.gov.uk/category/ways-of-working/" rel="category tag">Ways of working</a></div>
+    </header>
+    <div class="entry-content">
+      <p><span style="font-weight: 400">To a user, a service is simple. It’s something that helps them to do something – like learn to drive or start a business. But for government, creating and delivering these services can be much more complex. </span></p>
+<p><span style="font-weight: 400">This is because there are often lots of people across lots of different parts of government involved in delivering these services. They might be working hard on their part of the service but they might not have a picture of the full service or know how to work with others involved in it.</span></p>
+<p><img class="aligncenter size-large wp-image-23258" src="https://gds.blog.gov.uk/wp-content/uploads/sites/60/2018/01/Service-Communitites-Diagrams-01-620x352.png" alt="Diagram illustrating how service communities work" width="620" height="352" srcset="https://gds.blog.gov.uk/wp-content/uploads/sites/60/2018/01/Service-Communitites-Diagrams-01-620x352.png 620w, https://gds.blog.gov.uk/wp-content/uploads/sites/60/2018/01/Service-Communitites-Diagrams-01-310x176.png 310w, https://gds.blog.gov.uk/wp-content/uploads/sites/60/2018/01/Service-Communitites-Diagrams-01-768x436.png 768w" sizes="(max-width: 620px) 100vw, 620px" /></p>
+<p><span style="font-weight: 400">To help tackle this issue, GDS is working with organisations across government to pilot a new way of working. We are forming networks of people with different skills and from different departments, who will work together to improve end-to-end services that cross departmental boundaries. We’re calling these networks ‘Service Communities’.</span></p>
+<p><span style="font-weight: 400">We already have </span><a href="https://www.gov.uk/service-manual/communities"><span style="font-weight: 400">communities of practice</span></a><span style="font-weight: 400"> across government, that bring together people working in design or user research, for example. The new Service Communities will bring together people from across these professional boundaries. People in the communities will be united by the service they work on.</span></p>
+<p><span style="font-weight: 400">We’ve started to test this concept with the ‘Starting a Business’ community, which brings together people working to help users start a business. They’re people in different roles and from different organisations – such as HMRC, Department for Work and Pensions (DWP) and Department for Business, Energy and Industrial Strategy (BEIS).</span></p>
+<p><span style="font-weight: 400">Here’s why we’re doing this work and what we’ve done so far.</span></p>
+<h2><strong>The strength of communities</strong></h2>
+<p><span style="font-weight: 400">Last year we carried out </span><a href="https://gds.blog.gov.uk/2017/01/05/exploring-how-government-services-get-made/"><span style="font-weight: 400">research into how government services get made</span></a><span style="font-weight: 400">. This research showed us that there wasn’t a single, coherent way that government services are made. Instead, there is variation from department to department. And there are silos between different areas and professions – for example, between policy and delivery.</span></p>
+<p><span style="font-weight: 400">It’s clear that we need to address this issue, particularly as the </span><a href="https://www.gov.uk/government/publications/government-transformation-strategy-2017-to-2020"><span style="font-weight: 400">Government Transformation Strategy</span></a><span style="font-weight: 400"> sets out a commitment to ‘build services that run seamlessly across government’.</span></p>
+<p><span style="font-weight: 400">GDS is currently running a number of projects that support the development of end-to-end services. For example, we’re </span><a href="https://gds.blog.gov.uk/2017/09/27/help-us-update-the-service-standard/"><span style="font-weight: 400">updating the Service Standard</span></a><span style="font-weight: 400"> to take into account whole services. We’re starting to </span><a href="https://gds.blog.gov.uk/2017/11/30/building-end-to-end-services-into-gov-uk/"><span style="font-weight: 400">show full service journeys</span></a><span style="font-weight: 400"> on GOV.UK. And we’re working to help departments </span><a href="https://gds.blog.gov.uk/2016/10/31/help-us-give-government-better-data-about-services/"><span style="font-weight: 400">publish data about end-to-end services</span></a><span style="font-weight: 400">. </span></p>
+<p><span style="font-weight: 400">Our Service Communities work will build on and support all of this by bringing together everyone involved in delivering a particular service to act as one team. </span></p>
+<p><span style="font-weight: 400">The people in these communities will share things that will help them build coherent end-to-end services. These could be things like user research, data and back-end technology. They could update each other on live projects and support each other around common issues and blockers.</span></p>
+<p><img class="aligncenter size-large wp-image-23259" src="https://gds.blog.gov.uk/wp-content/uploads/sites/60/2018/01/Service-Communitites-Diagrams-02-620x352.png" alt="diagram illustrating how service communities work" width="620" height="352" srcset="https://gds.blog.gov.uk/wp-content/uploads/sites/60/2018/01/Service-Communitites-Diagrams-02-620x352.png 620w, https://gds.blog.gov.uk/wp-content/uploads/sites/60/2018/01/Service-Communitites-Diagrams-02-310x176.png 310w, https://gds.blog.gov.uk/wp-content/uploads/sites/60/2018/01/Service-Communitites-Diagrams-02-768x436.png 768w" sizes="(max-width: 620px) 100vw, 620px" /></p>
+<h2><strong>What have we done so far?</strong></h2>
+<p><span style="font-weight: 400">We’re trialling this approach with the ‘Starting a Business’ community. We chose this area because the user journey for starting a business is relatively straightforward and is not owned by any particular department. It also meant we could build on work that HMRC had been doing on business startups, as well as a cross-departmental network that had been assembled by the Transformation Peer Group.</span></p>
+<p><span style="font-weight: 400">The community features people in a range of different roles, including policy, strategy, design and administration. It has representatives from HMRC, DWP, BEIS, the Department for Education, Companies House, the Department for International Trade, the Pensions Regulator and the British Business Bank. As the community matures, we intend to involve other organisations, including those outside government. We’re already talking to the Food Standards Agency and the Health and Safety Executive.</span></p>
+<p><span style="font-weight: 400">We’ve held a number of workshops with this group. We’ve mapped out the service journey for starting a business and we’ve looked at the community’s capabilities and any gaps. </span></p>
+<p><span style="font-weight: 400">The group has also been looking at how to make sure the communities are sustainable. For example, looking at how regularly they meet, how they’re structured and who owns them.</span></p>
+<h2>id="learnings"<strong>What have we learned so far?</strong></h2>
+<p><span style="font-weight: 400">Just as there are challenges in building government services, there are challenges in building government Service Communities.</span></p>
+<p><span style="font-weight: 400">In terms of building the community, one of the challenges we’ve faced is finding a common communication channel that can be used by all departments, as many channels are currently used by some departments but blocked by others.</span></p>
+<p><span style="font-weight: 400">We’ve also found that because the service community is quite large, it can be difficult for everyone to meet regularly. To address this, we’re beginning to create smaller groups within the community, focused around areas of the service, such as user research. They could meet more regularly and feed back to the larger community.</span></p>
+<p><span style="font-weight: 400">In terms of how the community operates, we’ve found that it can be difficult to align work across different departments. For example, for some departments clearing a new policy change could take months while another might be weeks. We created a <a href="https://drive.google.com/open?id=1WlW8WRDM9QkJP23QfgluszmtqQAM_n6M"><span style="font-weight: 400">community terms of reference</span></a> to make working together more straightforward.</span></p>
+<p><span style="font-weight: 400">And because delivery is always happening, we can never have a blank slate, take stock of everything and design the 'perfect solution'. We have to accept that things are always being delivered as we go along.</span></p>
+<p><span style="font-weight: 400">Despite these challenges, we’ve found that there’s a real appetite for cross-government collaboration and that the community has worked well together on projects such as mapping out the end-to-end user journey for the service.</span></p>
+<h2><strong>What’s next?</strong></h2>
+<p><span style="font-weight: 400">The ‘Starting a Business’ community meets regularly. We’re continuing to iterate the end-to-end service map so that this can be the starting point for any work on the service this year. We’re also starting to look at data sharing in the service and how user researchers across the service can work together.</span></p>
+<p><span style="font-weight: 400">We’re also continuing to develop the Service Communities concept. We know that there are similar communities and networks already in existence across government and we’d like to link up with them so that we can all work together.</span></p>
+<blockquote class="noquotes"><p><span style="font-weight: 400">If you’d like to be involved in this work, or if you’re currently working on a service network or community, please get in touch. You can contact us on the #servicecommunities </span><a href="https://ukgovernmentdigital.slack.com/"><span style="font-weight: 400">cross-government Slack channel</span></a><span style="font-weight: 400"> or by <a href="mailto:service-communities@digital.cabinet-office.gov.uk">sending us an email</a>.</span></p></blockquote>
+    </div>
+    <footer class="single">
+                      </footer>
+  </article>
+
+  <nav class="page-numbers-container page-navigation" aria-label="Pagination">
+    <div class="previous">
+      <a href="https://gds.blog.gov.uk/2017/12/20/getting-started-as-a-content-designer-in-a-product-or-service-team/" rel="prev">Getting started as a content designer in a product or service team</a>    </div>
+    <div class="next">
+      <a href="https://gds.blog.gov.uk/2018/01/10/working-with-citizens-advice-and-its-amazing-data/" rel="next">Working with Citizens Advice and its amazing data</a>    </div>
+  </nav>
+
+
+  <div class="icons-buttons">
+    <h3>Share this page</h3>
+    <ul>
+      <li>
+        <a target="_blank" href="https://twitter.com/intent/tweet?original_referer&amp;url=https%3A%2F%2Fgds.blog.gov.uk%2F2018%2F01%2F08%2Fhow-cross-government-communities-can-support-cross-government-services%2F&amp;text=How+cross-government+communities+can+support+cross-government+services" class="twitter">Twitter</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgds.blog.gov.uk%2F2018%2F01%2F08%2Fhow-cross-government-communities-can-support-cross-government-services%2F" class="facebook">Facebook</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://plus.google.com/share?url=https%3A%2F%2Fgds.blog.gov.uk%2F2018%2F01%2F08%2Fhow-cross-government-communities-can-support-cross-government-services%2F" class="google">Google+</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fgds.blog.gov.uk%2F2018%2F01%2F08%2Fhow-cross-government-communities-can-support-cross-government-services%2F" class="linkedin">LinkedIn</a>
+      </li>
+      <li>
+        <a href="mailto:?subject=I wanted to share this post with you from Government Digital Service&body=How cross-government communities can support cross-government services https://gds.blog.gov.uk/2018/01/08/how-cross-government-communities-can-support-cross-government-services/" class="email">Email</a>
+      </li>
+    </ul>
+    <div class="clearfix"></div>
+  </div>
+
+
+          </div>
+    <div class="column-one-third sidebar-contain">
+      <aside class="sidebar" role="complementary">
+  <section class="widget about_widget"><h3>Government Digital Service</h3><p>Government Digital Service (GDS) is leading the digital transformation of government. </p>
+<p><a href="https://gds.blog.gov.uk/?p=31">Find out more</a>.</p>
+</section><section class="widget categories-2 widget_categories"><div class="widget-inner"><h3>What we do</h3><form action="https://gds.blog.gov.uk" method="get"><label class="screen-reader-text" for="cat">What we do</label><select  name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="1118">Accessibility&nbsp;&nbsp;(11)</option>
+	<option class="level-0" value="130">Assisted digital&nbsp;&nbsp;(36)</option>
+	<option class="level-0" value="1087">Common Technology Services (CTS)&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="1229">Content design&nbsp;&nbsp;(10)</option>
+	<option class="level-0" value="1110">Data group&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="1237">Data science&nbsp;&nbsp;(6)</option>
+	<option class="level-0" value="1255">Digital&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="57">Digital engagement&nbsp;&nbsp;(49)</option>
+	<option class="level-1" value="384">&nbsp;&nbsp;&nbsp;SPRINT 13&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="934">Digital Marketplace&nbsp;&nbsp;(15)</option>
+	<option class="level-0" value="32">Digital strategy&nbsp;&nbsp;(62)</option>
+	<option class="level-0" value="1010">Events&nbsp;&nbsp;(11)</option>
+	<option class="level-0" value="1248">GDS design principles&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="7">GDS team&nbsp;&nbsp;(371)</option>
+	<option class="level-0" value="1305">Global Digital Marketplace&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="11">GOV.UK&nbsp;&nbsp;(259)</option>
+	<option class="level-1" value="6">&nbsp;&nbsp;&nbsp;GOV.UK alpha&nbsp;&nbsp;(18)</option>
+	<option class="level-1" value="10">&nbsp;&nbsp;&nbsp;GOV.UK beta&nbsp;&nbsp;(38)</option>
+	<option class="level-1" value="31">&nbsp;&nbsp;&nbsp;GOV.UK departments and policy&nbsp;&nbsp;(52)</option>
+	<option class="level-0" value="1170">GOV.UK Pay&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="17">GOV.UK Verify and identity assurance&nbsp;&nbsp;(26)</option>
+	<option class="level-0" value="1023">Government as a Platform&nbsp;&nbsp;(38)</option>
+	<option class="level-0" value="1293">GovTech&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="218">Measurement and analytics&nbsp;&nbsp;(59)</option>
+	<option class="level-0" value="1227">Monthly roundup&nbsp;&nbsp;(1)</option>
+	<option class="level-0" value="1245">Notify&nbsp;&nbsp;(3)</option>
+	<option class="level-0" value="904">Office of the Chief Technology Officer (OCTO)&nbsp;&nbsp;(7)</option>
+	<option class="level-0" value="1252">Open standards&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="990">People and skills&nbsp;&nbsp;(61)</option>
+	<option class="level-0" value="1169">Platform as a Service&nbsp;&nbsp;(2)</option>
+	<option class="level-0" value="1226">Product management&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="1278">Service design&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="812">Service standard&nbsp;&nbsp;(31)</option>
+	<option class="level-0" value="1123">Services Programme&nbsp;&nbsp;(10)</option>
+	<option class="level-0" value="830">SPRINT 14&nbsp;&nbsp;(5)</option>
+	<option class="level-0" value="1004">Sprint 15&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="1093">Sprint 16&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="1282">Sprint 18&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="30">Style, content and design&nbsp;&nbsp;(70)</option>
+	<option class="level-0" value="322">Technology&nbsp;&nbsp;(53)</option>
+	<option class="level-0" value="513">Transformation&nbsp;&nbsp;(142)</option>
+	<option class="level-0" value="1">Uncategorized&nbsp;&nbsp;(4)</option>
+	<option class="level-0" value="965">User research&nbsp;&nbsp;(14)</option>
+	<option class="level-0" value="1273">Ways of working&nbsp;&nbsp;(12)</option>
+	<option class="level-0" value="847">Weekend links&nbsp;&nbsp;(15)</option>
+</select>
+</form>
+<script type='text/javascript'>
+/* <![CDATA[ */
+(function() {
+	var dropdown = document.getElementById( "cat" );
+	function onCatChange() {
+		if ( dropdown.options[ dropdown.selectedIndex ].value > 0 ) {
+			dropdown.parentNode.submit();
+		}
+	}
+	dropdown.onchange = onCatChange;
+})();
+/* ]]> */
+</script>
+
+</div></section><section class="widget text-5 widget_text"><div class="widget-inner"><h3>Work with us</h3>			<div class="textwidget"><p><a href="https://gds.blog.gov.uk/jobs/">Find out about current vacancies at GDS</a></p>
+<p><a href="https://twitter.com/DigiCareersGov">Follow @DigiCareersGov</a></p>
+</div>
+		</div></section><section class="widget feed_email_widget-2 feed_email_widget"><div class="widget-inner">    <h3>Sign up for updates</h3>
+    <div class="subscribe icons-buttons">
+      <ul>
+        <li>
+          <a href="/subscribe/" class="email">Email</a>
+        </li>
+        <li>
+          <a href="https://gds.blog.gov.uk/feed/" class="feed">Atom</a>
+        </li>
+      </ul>
+      <div class="clear"></div>
+    </div>
+  </div></section><section class="widget nav_menu-3 widget_nav_menu"><div class="widget-inner"><h3>Follow us</h3><ul id="menu-follow-us" class="menu"><li class="menu-gds-on-twitter"><a href="https://twitter.com/gdsteam">GDS on Twitter</a></li>
+<li class="menu-gov-uk-on-twitter"><a href="https://twitter.com/GOVUK">GOV.UK on Twitter</a></li>
+<li class="menu-digicareersgov-on-twitter"><a href="https://twitter.com/DigiCareersGov">DigiCareersGov on Twitter</a></li>
+<li class="menu-youtube"><a href="https://www.youtube.com/user/GovDigitalService">YouTube</a></li>
+<li class="menu-flickr"><a href="https://www.flickr.com/photos/gdsteam/">Flickr</a></li>
+<li class="menu-instagram"><a href="http://instagram.com/gdsteam">Instagram</a></li>
+<li class="menu-linkedin"><a href="http://www.linkedin.com/company/government-digital-service">LinkedIn</a></li>
+</ul></div></section>  		<section class="widget recent-posts-2 widget_recent_entries"><div class="widget-inner">		<h3>Recent Posts</h3>		<ul>
+											<li>
+					<a href="https://gds.blog.gov.uk/2018/10/22/gds-academy-expanding-our-international-reach-with-the-canadian-government/">GDS Academy: Expanding our international reach with the Canadian government</a>
+											<span class="post-date">22 October 2018</span>
+									</li>
+											<li>
+					<a href="https://gds.blog.gov.uk/2018/10/17/building-a-better-gov-uk-step-by-step/">Building a better GOV.UK, step by step</a>
+											<span class="post-date">17 October 2018</span>
+									</li>
+											<li>
+					<a href="https://gds.blog.gov.uk/2018/10/11/taking-gov-uk-verify-to-the-next-stage/">Taking GOV.UK Verify to the next stage</a>
+											<span class="post-date">11 October 2018</span>
+									</li>
+					</ul>
+		</div></section><section class="widget text-7 widget_text"><div class="widget-inner"><h3>Comments and moderation</h3>			<div class="textwidget"><a href="https://gds.blog.gov.uk/terms/">Read our guidelines</a></div>
+		</div></section><section class="widget text-8 widget_text"><div class="widget-inner"><h3>Social media house rules</h3>			<div class="textwidget"><p><a href="https://gds.blog.gov.uk/social-media-house-rules/">Read our guidelines</a></p>
+</div>
+		</div></section></aside>
+    </div>
+</main>
+</div>
+
+
+    <footer class="group js-footer" id="footer" role="contentinfo">
+
+      <div class="footer-wrapper">
+
+
+        <div class="footer-meta">
+          <div class="footer-meta-inner">
+            <nav>
+  <ul id="menu-footer" class="menu">
+    <li class="menu-all-government-blogs"><a href="https://www.blog.gov.uk">All GOV.UK blogs</a></li>
+    <li class="menu-all-government-blog-posts"><a href="https://www.blog.gov.uk/all-posts/">All GOV.UK blog posts</a></li>
+    <li class="menu-gov-uk"><a href="https://www.gov.uk">GOV.UK</a></li>
+    <li class="menu-all-departments"><a href="https://www.gov.uk/government/organisations">All departments</a></li>
+    <li class="menu-all-policies"><a href="https://www.gov.uk/government/policies">All policies</a></li>
+    <li class="menu-cookies"><a href="https://www.blog.gov.uk/cookies">Cookies</a></li>
+  </ul>
+</nav>
+
+
+            <div class="open-government-licence">
+              <p class="logo"><a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence</a></p>
+
+                <p>All content is available under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence v3.0</a>, except where otherwise stated</p>
+
+            </div>
+          </div>
+
+          <div class="copyright">
+            <a href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/crown-copyright/">© Crown copyright</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <div id="global-app-error" class="app-error hidden"></div>
+
+    <script src="https://gds.blog.gov.uk/wp-content/themes/gds-blogs/build/govuk_template/assets/javascripts/govuk-template.js?0.22.3"></script>
+
+    <script type='text/javascript' src='https://gds.blog.gov.uk/wp-includes/js/wp-embed.min.js?ver=4.9.8'></script>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-40442074-1', 'blog.gov.uk');
+  ga('send', 'pageview');
+  ga('set', 'anonymizeIp', true);
+  </script>
+
+
+
+
+    <script>if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');</script>
+  </body>
+</html>
