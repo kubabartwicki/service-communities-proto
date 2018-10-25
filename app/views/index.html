@@ -10,8 +10,25 @@
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-two-thirds">
       <h1 class="govuk-heading-xl">
-        What do you want to do?
-      </h1>{{releaseVersion | log }}
+        Work across organisational boundaries to solve a whole problem for users
+      </h1>
+      <p class="govuk-body-l">
+        GOV.UK Service Communities enables ongoing cross-government collaboration on services as users see them.
+      </h1>
+
+      <div class="community-detail">
+        <h3 class="govuk-heading-l">4</h3>
+        <p class="govuk-body"> active service communities</p>
+      </div>
+      <div class="community-detail">
+        <h3 class="govuk-heading-l">14</h3>
+        <p class="govuk-body">departments and organisations involved</p>
+      </div>
+
+<hr class="govuk-section-break govuk-section-break--xl ">
+<h2 class="govuk-heading-m">
+  What do you want to do?
+</h2>
       <p>
         <a href="/browse-communities" class="govuk-link">Browse service communities</a>
       </p>
@@ -19,13 +36,29 @@
         <a href="/community-lifecycle" class="govuk-link">Learn about the phases of a community</a>
       </p>
       <p>
-        <a href="/browse-case-studies" class="govuk-link">Browse case studies</a>
+        <a href="/browse-case-studies" class="govuk-link">Browse collaboration case studies</a>
       </p>
       <p>
         <a href="/community-artefacts" class="govuk-link">Browse artefacts</a>
       </p>
 
-
+<style>
+        
+        .community-detail {
+          margin-bottom: 5px;
+        }
+        .community-detail h3,
+        .community-detail p {
+          display: inline-block;
+          margin-bottom: 0;
+        }
+        .community-detail h3 {
+          /*width: 80px;*/
+        }
+        .community-detail p {
+          margin-left: 10px;
+        }
+      </style>
     </div>
 </div>
 
